@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://dl.google.com/dl/android/aosp/eos-twd9.240405.001-factory-9782104c.zip?hl=zh-cn
-  ROM_NAME: Generic
+  ROM_NAME: Generic Pixel
   BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
